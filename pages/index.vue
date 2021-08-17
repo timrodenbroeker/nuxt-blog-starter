@@ -32,7 +32,8 @@
 </script>
 
 <style scoped>
-  .post {
+  .post a {
+    display: block;
     border-bottom: 1px solid black;
     padding-top: 15px;
   }

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug?",
+    "component": "/Users/timrodenbroker/Documents/git/nuxt-blog-starter/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/timrodenbroker/Documents/git/nuxt-blog-starter/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
